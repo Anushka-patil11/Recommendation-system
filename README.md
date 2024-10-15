@@ -1,5 +1,4 @@
-
- #Netflix Movies and TV Shows Recommendation System
+ Netflix Movies and TV Shows Recommendation System
 
 This repository features a hybrid recommendation system built using Python, which leverages a dataset of Netflix movies and TV shows. The system utilizes both collaborative and content-based filtering techniques to recommend movies and TV shows to users based on various attributes such as cast, director, country, genre, and ratings.
 
@@ -26,6 +25,9 @@ o	Integrates Natural Language Toolkit (NLTK) for processing textual data to enha
 o	Implemented a step-by-step process starting with data cleaning, handling missing values, and identifying duplicates.
 
 o	Developed machine learning models for recommendation and evaluated their performance to improve accuracy.
+
+The image shows result of the system developed.
+![Picture1](https://github.com/user-attachments/assets/8bab9a42-6b67-4bb9-986a-b5a4d181b77f)
 
 •	Visualizations:
 
